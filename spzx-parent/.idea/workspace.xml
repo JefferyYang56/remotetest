@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1691b1bd-0790-4b2c-9d73-413ee5c51ff5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\apache-maven-3.8.4" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2jrhA28lZrMLsv0W8PZAxRaoIwz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.spzx-common [clean].executor": "Run",
+    "Maven.spzx-manager [clean].executor": "Run",
+    "Maven.spzx-manager [package].executor": "Run",
+    "Maven.spzx-model [clean].executor": "Run",
+    "Maven.spzx-parent [clean].executor": "Run",
+    "Maven.spzx-parent [install].executor": "Run",
+    "Maven.spzx-parent [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ManagerApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/javaproject/spzx-parent/spzx-common/common-log",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\javaproject\spzx-parent\spzx-common\common-log" />
+      <recent name="E:\javaproject\spzx-parent\spzx-manager\src\main\java\com\jeffery\spzx\manager\mapper" />
+      <recent name="E:\javaproject\spzx-parent\spzx-manager\src\main\java\com\jeffery\spzx\manager\service\impl" />
+      <recent name="E:\javaproject\spzx-parent\spzx-manager\src\main\java\com\jeffery\spzx\manager\service" />
+      <recent name="E:\javaproject\spzx-parent\spzx-manager\src\main\java\com\jeffery\spzx\manager" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\javaproject\spzx-parent\spzx-manager\src\main\resources\mapper\user" />
+      <recent name="E:\javaproject\spzx-parent\spzx-manager\src\main\resources\mapper\role" />
+      <recent name="E:\javaproject\spzx-parent\spzx-manager\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spzx-manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jeffery.spzx.manager.ManagerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jeffery.spzx.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ManagerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1691b1bd-0790-4b2c-9d73-413ee5c51ff5" name="Changes" comment="" />
+      <created>1722150955794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722150955794</updated>
+      <workItem from="1722150956800" duration="3142000" />
+      <workItem from="1722216034501" duration="15811000" />
+      <workItem from="1722308286883" duration="6703000" />
+      <workItem from="1722323479563" duration="10000" />
+      <workItem from="1722323571186" duration="10737000" />
+      <workItem from="1722388473256" duration="11279000" />
+      <workItem from="1722403993985" duration="14028000" />
+      <workItem from="1722480046745" duration="11639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
